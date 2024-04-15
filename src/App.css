@@ -1,0 +1,53 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  background-image: url('https://img.freepik.com/premium-vector/geometric-dark-message-board-wallpaper-with-copy-space-modern-designs_796268-137.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+
+#img1{
+ margin-left: 20px;
+ border-radius: 50%;
+}
+span{
+  color: rgb(35, 226, 35);
+}
+.name{
+  width: 80%;
+}
+p{
+  color: beige;
+}
+
+
+#card{
+  padding: 50px;
+  text-align: justify;
+  margin-left: 200px;
+  
+}
+#cd{
+  color:brown;
+  font-size: 20px;
+}
+#pg{
+  width: 60%;
+  margin-left: 200px;
+  padding: 20px;
+  margin: 20px;
+}
+.abt{
+  background-image: url('https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_23-2149008629.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
+#para{
+  
+ margin-left: 400px;
+}
+#footer{
+  text-align: center;
+}
